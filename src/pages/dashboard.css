@@ -1,0 +1,24 @@
+@media screen and (max-width: 1024px) {
+    body{
+        /* overflow-x: hidden!important; */
+        overflow-x: hidden !important;
+    }
+    .main-dash{
+        /* z-index:-1; */
+        width:100%!important;
+        flex-direction: column;
+
+
+        /* display: none; */
+        
+    }
+    }
+.main-dash{
+    display:flex;
+    justify-content: center;
+    margin: auto;
+    width: 57%;
+    /* background-color: yellow; */
+
+    /* margin-left: 16em; */
+}

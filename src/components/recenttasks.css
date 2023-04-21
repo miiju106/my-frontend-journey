@@ -1,0 +1,12 @@
+.skill-list{
+    font-size: 14px;
+    margin-top:.4em;
+}
+.skill-name{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.recent-div > div{
+    margin-bottom: 1em;
+}

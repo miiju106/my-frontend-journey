@@ -1,0 +1,54 @@
+/*
+=============== 
+Fonts
+===============
+*/
+@import url("https://fonts.googleapis.com/css?family=Open+Sans|Roboto:400,700&display=swap");
+
+/*
+=============== 
+Variables
+===============
+*/
+
+:root {
+  /*  color*/
+  --bodyBg: #F3F4FA;
+  --mainBg: #fff;
+  --mainColor: #8624DB;
+  --purple: #8624DB;
+  --orange: #FF9066;
+  --white: #fff;
+  --black: #000;
+  --red: #DB190C;
+/*  font */
+  --fontFamily: 'Roboto', sans-serif;
+  --fontSizeNormal: 1.125rem;
+  --fontSizeMedium: 1.25rem;
+  --fontSizeLarge: 1.5625rem;
+
+/*  size*/
+  --sideBarWidth: 384px;
+  --sideBarLogoHeight: 171px;
+  --spacing: 48px;
+  --mobileSpacing: 24px;
+  --borderRadius: 30px;
+
+
+  --mobile-width: 600px;
+  --tablet-width: 1366px;
+  
+  }
+/*
+=============== 
+Global Styles
+===============
+*/
+
+*,
+::after,
+::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
