@@ -71,7 +71,7 @@ const data = {
             value: 30
         }
     ],
-    revenueByMonths: {
+    reviewByMonths: {
         labels: ['Feb', 'Mar', 'Apr', 'May', 'Jun', 'July', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec', 'Jan'],
         data: [2.5, 2.0, 3.0, 4.0, 1.0, 2.2, 3.1, 1.9, 2.00, 1.2, 2.5, 5]
     }

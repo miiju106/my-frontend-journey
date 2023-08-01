@@ -13,7 +13,7 @@ const Recenttasks = () => {
           <div className="skill-name">
             {item.title}
             <span
-              className={`${item.value < 50 ? "txt-success" : "txt-danger"}`}
+              className={`${item.value} < 50 ? "txt-success" : "txt-danger"}`}
             >
               {item.value}%
             </span>
